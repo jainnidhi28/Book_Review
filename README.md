@@ -73,14 +73,3 @@ npm start
   ```bash
   curl -X POST http://localhost:3000/books -H 'Authorization: Bearer <token>' -H 'Content-Type: application/json' -d '{"title":"Book Title","author":"Author","genre":"Fiction","description":"A great book."}'
   ```
-
----
-
-## ℹ️ Notes
-- See code comments for details and design decisions.
-- For any issues, check backend logs or frontend console.
-
----
-
-## 👩‍💻 Author
-Nidhi Jain
